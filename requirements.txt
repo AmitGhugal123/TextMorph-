@@ -1,0 +1,10 @@
+transformers
+torch
+streamlit
+flask
+fastapi
+nltk
+sentencepiece
+datasets
+pdfplumber
+python-docx
